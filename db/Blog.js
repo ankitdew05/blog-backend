@@ -6,8 +6,6 @@ const blogSchema = new mongoose.Schema({
     content: String,
     author: String,
     key: String,
-    name: String,
-    Comment: String,
     url: String,
 
 });
